@@ -1,0 +1,37 @@
+return {
+    [99567941238278] = {
+        Name = "Ink Game Lobby",
+        Version = "1.0",
+        Script = [[
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ArtemSystem/Scripts/refs/heads/main/Ink%20Game%20Lobby', true))()
+        ]]
+    },
+    [125009265613167] = {
+        Name = "Ink Game",
+        Version = "1.1",
+        Script = [[
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ArtemSystem/Scripts/refs/heads/main/Ink%20Game', true))()
+        ]]
+    },
+    [122816944483266] = {
+        Name = "Ink Game",
+        Version = "1.1",
+        Script = [[
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ArtemSystem/Scripts/refs/heads/main/Ink%20Game', true))()
+        ]]
+    },
+    [96342491571673] = {
+        Name = "Steal a Brainrot",
+        Version = "0.9",
+        Script = [[
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ArtemSystem/Scripts/refs/heads/main/Steal%20a%20Brainrot', true))()
+        ]]
+    },
+    [109983668079237] = {
+        Name = "Steal a Brainrot",
+        Version = "0.9",
+        Script = [[
+            loadstring(game:HttpGet('https://raw.githubusercontent.com/ArtemSystem/Scripts/refs/heads/main/Steal%20a%20Brainrot', true))()
+        ]]
+    }
+}
