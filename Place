@@ -1,6 +1,6 @@
 return {
-    [99567941238278] = {
-        Name = "Ink Game Lobby",
+    [8482713490] = {
+        Name = "Forgotten Memories Lobby",
         Version = "1.0",
         Script = [[
             loadstring(game:HttpGet('https://raw.githubusercontent.com/ArtemSystem/Scripts/refs/heads/main/Ink%20Game%20Lobby', true))()
